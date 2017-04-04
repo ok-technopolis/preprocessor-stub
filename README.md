@@ -12,7 +12,7 @@ npm i -g gulp
 # go to project dir
 cd %project dir%
 
-# install current node modules
+# install project node modules
 npm i
 ```
 
