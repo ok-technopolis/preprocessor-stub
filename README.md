@@ -21,12 +21,12 @@ npm i
 Compile scss
 
 ```bash
-gulp scss
+gulp sass
 ```
 
 Run watcher
 ```bash
-gulp scss:watch
+gulp sass:watch
 ```
 
 Have fun
