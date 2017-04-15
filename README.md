@@ -16,17 +16,17 @@ cd %project dir%
 npm i
 ```
 
-## Work with scss
+## Work with sass
 
-Compile scss
+Compile sass
 
 ```bash
-gulp scss
+gulp sass
 ```
 
 Run watcher
 ```bash
-gulp scss:watch
+gulp sass:watch
 ```
 
 Have fun
